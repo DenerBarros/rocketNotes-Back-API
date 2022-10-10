@@ -5,3 +5,7 @@
 - Banco de dados SQLite
 - Ferramenta Beekeper Studio para manipulação do banco
 - Utilização de SQL Query Builder Knex.js
+- Utilizado CORS
+- Utilizado Bycript
+- Utilizado JsonWebToken
+- Utilizado Axios
