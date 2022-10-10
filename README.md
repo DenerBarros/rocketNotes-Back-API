@@ -8,4 +8,3 @@
 - Utilizado CORS
 - Utilizado Bycript
 - Utilizado JsonWebToken
-- Utilizado Axios
