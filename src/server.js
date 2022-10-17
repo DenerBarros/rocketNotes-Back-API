@@ -1,6 +1,7 @@
+require("dotenv/config");
 require("express-async-errors");
 
-const uploadConfig = require('./configs/upload');
+const uploadConfig = require("./configs/upload");
 
 const migrationsRun = require("./database/sqlite/migrations");
 const AppError = require("./utils/AppError");
