@@ -13,7 +13,7 @@ class NotesController {
 
     const linksInsert = links.map(link => {
       if (!link){
-        throw new AppError("Por favor insira um link")
+        throw new AppError("Por favor insira um link");
       } else {
       return {
         note_id,
